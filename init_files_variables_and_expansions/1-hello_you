@@ -1,1 +1,2 @@
-echo hello root
+#!/bin/bash
+echo hello "$(whoami)"
